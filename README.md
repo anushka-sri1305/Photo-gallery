@@ -33,7 +33,7 @@ The application fetches images from the Picsum Photos API, displays them in a re
 Clone the repository
 
 
-git clone https://github.com/YOUR_USERNAME/react-photo-gallery.git
+git clone [https://github.com/anushka-sri1305/Photo-gallery.git]
 
 
 Navigate into the project folder
