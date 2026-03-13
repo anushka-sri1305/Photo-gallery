@@ -90,8 +90,4 @@ The implementation demonstrates:
 **Anushka Srivastava**  
 B.Tech IT – KIET Deemed-to-be University
 
-Then run:
 
-git add README.md
-git commit -m "Added README"
-git push
