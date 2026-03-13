@@ -25,26 +25,6 @@ The application fetches images from the Picsum Photos API, displays them in a re
 - Tailwind CSS  
 - JavaScript (ES6+)
 
----
-
-## Project Structure
-
-
-src
-├── components
-│ ├── SearchBar.jsx
-│ ├── Gallery.jsx
-│ └── PhotoCard.jsx
-│
-├── hooks
-│ └── useFetchPhotos.js
-│
-├── reducers
-│ └── favoritesReducer.js
-│
-├── App.jsx
-└── main.jsx
-
 
 ---
 
